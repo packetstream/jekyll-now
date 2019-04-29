@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Is A Proxy Server
+title: What Is A Proxy Server?
 ---
 What Is A Proxy Server and What Is An IP Address? 
 and why Sierra Burgess Is a Loser is a cat-fishing movie <br><br> ![What is a proxy]({{ site.baseurl }}/images/post_content/malware_meme.jpg)
@@ -17,6 +17,7 @@ Let’s move on to IP addresses.
 IP addresses is simple to explain. It’s the more obvious characteristic that identifies you. It might be your name, the way you look, or the way you talk. Basically it’s who you are.
 
 ![What are IP Addresses]({{ site.baseurl }}/images/post_content/sierra_movie_poster.png)
+<img align="left" src="({{ site.baseurl }}/images/post_content/sierra_movie_poster.png)">
 
 Now, to explain how PacketStream works, I will use a movie called Sierra Burgess Is A Loser as an analogy. #Shoutout to Netflix for free marketing
 
