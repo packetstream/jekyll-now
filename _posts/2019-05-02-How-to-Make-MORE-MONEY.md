@@ -3,7 +3,7 @@ layout: post
 title: How to Make MORE MONEY with PacketStream
 ---
 
-<img src="/images/post_content/madstacks.gif" width="750"> 
+<img src="/images/post_content/madstacks.gif" width="500"> 
 
 Packeters. If you are not sharing your referral link, you are losing out on the money that you could have been making. So get on that game of sharing your referral link with your friends, family, and the boy/girl next door! Honestly, what better way is there to talk to the boy/girl next door with whom you’ve been wanting to chat than by sharing your referral link that could bring them free money. It doesn’t sound like an awkward thing to do at all.
 
