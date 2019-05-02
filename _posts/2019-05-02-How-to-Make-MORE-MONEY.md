@@ -13,7 +13,7 @@ As a Packeter, you are already making a passive income by sharing your bandwidth
 
 However, for a LIMITED TIME in May, we are increasing that extra percentage to 20%!
 
-![Shocked]({{ site.baseurl }}/images/post_content/shocked.gif)
+![Shocked]({{ site.baseurl }}/images/post_content/shocked2.gif)
 
 During the month of May ONLY, you will receive 20% of the lifetime earnings from those new Packeters when new Packeters sign up using your referral link. That is 5.67 times MORE MONEY. If you weren’t sharing your referral link, that is 20% extra from ZERO! In the world of math, that is an infinite amount.
 
