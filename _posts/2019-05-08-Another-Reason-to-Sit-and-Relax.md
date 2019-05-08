@@ -5,7 +5,7 @@ title: Another Tech Advancement, Another Reason to Sit and Relax
 
 PacketStream has developed an artificial intelligence tool called Sidekick AI that provides businesses with a targeted pool of social media influencers. What this means is that businesses specify the type of influencers that they want to target and identify, and Sidekick AI will provide these businesses with the specified influencers on a daily basis. 
 
-![sidekick_ai] (/images/post_content/sidekick_ai.png)
+![sidekick_ai](/images/post_content/sidekick_ai.png)
 
 What does this mean for businesses? BIG EARNINGS AND SAVINGS. 
 
