@@ -3,7 +3,7 @@ layout: post
 title: "Sidekick AI: Another Reason to Sit and Relax"
 ---
 
-PacketStream has developed an artificial intelligence tool called Sidekick AI that provides businesses with a targeted pool of social media influencers. What this means is that businesses specify the type of influencers that they want to target and identify, and Sidekick AI will provide these businesses with the specified influencers on a daily basis. 
+PacketStream has developed an artificial intelligence tool called Sidekick AI that provides businesses with a targeted pool of social media influencers. What this means is that businesses specify the type of influencers that they want to target and identify, and Sidekick AI will provide these businesses with the specified influencers on a daily basis.<br>![sidekick_ai](/images/post_content/sidekick2.png)
 
 What does this mean for businesses? BIG EARNINGS AND SAVINGS. 
 
@@ -18,8 +18,6 @@ Furthermore, interns are prone to error. Not because they are interns, but becau
 What’s the take away from all this?
 
 Interns tire. Interns come and go. Sidekick AI prevails. You should be using it too.
-
-![sidekick_ai](/images/post_content/sidekick_ai.png)
 
 Check Sidekick AI out via the following link: 
 [https://apps.packetstream.io/sidekick/](https://apps.packetstream.io/sidekick/)
