@@ -3,9 +3,9 @@ layout: post
 title: PacketStream's New Face
 ---
 
-As PacketStream continues to grow from high customer demand, we figured it was time our website got a little upgrade.
-
 ![new_design](/images/post_content/new_design.png)
+
+PacketStream continues to grow from high customer demand so we figured it was time our website got a little upgrade.
 
 As the title mentions, the face of PacketStream’s website has changed completely.
 
