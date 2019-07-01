@@ -7,8 +7,8 @@ To help better understand how to use PacketStream, we decided to create tutorial
 
 The first tutorial video focuses on showing how to set up your proxy using Google Chrome as the web browser step by step:
 
-[!Alt text(https://img.youtube.com/vi/OH1AIeuucTs&t=13s/0.jpg)](https://www.youtube.com/watch?v=OH1AIeuucTs&t=13s)
+[!Alt text](https://img.youtube.com/vi/OH1AIeuucTs&t=13s/0.jpg)](https://www.youtube.com/watch?v=OH1AIeuucTs&t=13s)
 
 This second video shows a step by step tutorial on setting up the proxy using FireFox as the web browser:
 
-[!Alt text(https://img.youtube.com/vi/58JM7lLfnUs&t=1s/0.jpg)](https://www.youtube.com/watch?v=58JM7lLfnUs&t=1s)
+[!Alt text](https://img.youtube.com/vi/58JM7lLfnUs&t=1s/0.jpg)](https://www.youtube.com/watch?v=58JM7lLfnUs&t=1s)
