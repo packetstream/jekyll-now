@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-PacketStream is the world's first peer-to-peer privacy marketplace. Check us out at [https://packetstream.io](https://packetstream.io)
+PacketStream is the world's first residential proxy network powered by peer-to-peer technology.
 
-Become a Packeter to make the web safer. Get rewarded for protecting the privacy of yourself and others.
+Check us out at [https://packetstream.io](https://packetstream.io)
 
 ### Contact PacketStream
 

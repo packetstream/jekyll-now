@@ -3,8 +3,6 @@ layout: post
 title: Businesses Use-Cases for PacketStream's Residential IP Addresses
 ---
 
-![cables](/images/post_content/cables.jpg)
-
 In modern day society data is everything. Individuals aren't made of atoms; rather they are made of data. In order to be successful it's crucial for businesses to gather such data. Free data is available throughout the Internet, but just as trends change rapidly, so does data. Businesses can use freely available data but data sources are often outdated. Consequently businesses are required to gather data using their own software tools to keep up with changes. The two basic tools you need for data scraping are automation tools and a proxy server.
 
 In this article, we will delve into the necessity of a residential proxy server. The advangtages of residential proxies are numerous.
