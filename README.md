@@ -11,3 +11,9 @@
 
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
 - [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
+
+
+## About Us
+PacketStream is a residential proxy network powered by peer-to-peer technology that allows business customers to tunnel web traffic through real residential ISP users who opt-in to share their bandwidth with the network.
+
+Get more information about PacketStream on our website: [https://packetstream.io](https://packetstream.io)
