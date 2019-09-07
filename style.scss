@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 990px;
   padding: 0 10px;
   width: 100%;
 }
@@ -110,6 +110,10 @@ img {
   max-width: 100%;
 }
 
+.center {
+  text-align: center;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -178,6 +182,14 @@ img {
   img {
     border-radius: 5px;
   }
+}
+
+.site-cta {
+  margin: auto;
+}
+
+.site-cta img {
+      max-width: 408px;
 }
 
 .site-info {
@@ -276,6 +288,14 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+}
+
+.wrapper-cta {
+  margin-top: 50px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: $lightGray;
+  padding: 24px 0px 18px 0px;
 }
 
 footer {
