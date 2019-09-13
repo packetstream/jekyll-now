@@ -5,9 +5,9 @@ title: Introducing PacketStream's ProxySampler
 
 PacketStream, the world’s first residential proxy network powered by peer-to-peer technology, widely-known for our reliable service and innovative tools that help our clients achieve business success through automation. 
 
-Recently, we added another CLI tool to our arsenal – the ProxySampler. 
+Recently, we added another CLI tool to our arsenal – ProxySampler. 
 
-The ProxySampler is an open-source Command Line Interface (CLI) tool that can be used to test proxies and measure their health and performance. 
+ProxySampler is an open-source Command Line Interface (CLI) tool that can be used to test proxies and measure their health and performance. 
 
 Proxies are essential elements in business automation. Thus, you must constantly monitor the speed and reliability of their infrastructure.
 
@@ -38,7 +38,7 @@ ProxySampler is used internally at PacketStream as part of our infrastructure mo
 
 Through this tool, we can monitor the health of our proxy tunnel. This tool can also trigger alerts whenever something seems off.
 
-## How do I use the ProxySampler?
+## How do I use ProxySampler?
 
 ProxySampler is quite easy to use. It contains very few cli arguments for configuration. All you need to do is provide the proxy server, port, and author information. 
 
@@ -50,7 +50,7 @@ You can use ProxySampler to:
   
 * Test a list of PacketStream residential proxies from a file. JSON output
 
-## Where do I get the ProxySampler?
+## Where do I get ProxySampler?
 
 To learn more about ProxySampler and how to install it, go to [https://github.com/packetstream/proxysampler](https://github.com/packetstream/proxysampler).
 
